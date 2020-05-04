@@ -1,2 +1,2 @@
-# First-scraper
-First web scraper project
+# Web Scrapers
+Web scraper projects
